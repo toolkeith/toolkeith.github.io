@@ -21,7 +21,7 @@ timezone: Asia/Manila
 
 title: ToolKeith                          # the main title
 
-tagline: Personal Blog   # it will display as the sub-title
+tagline: Personal Blog of Keith Bryan Sevilla  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
 url: ''
 
 github:
-  username: github_username             # change to your github username
+  username: toolkeith             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -38,15 +38,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com             # change to your email address
+  name: Keith Sevilla
+  email: sevillakeithbryanv@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/toolkeith       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/sevillakeithbryan
+    - https://www.linkedin.com/in/sevillakeithbryan
 
 google_site_verification:               # fill in to your verification string
 
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.fcrk1-5.fna.fbcdn.net/v/t1.6435-9/194120238_989661941842484_3987399898035515457_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHFAQv9aYm1WXyeDkyUjRbNnGmd7UzivX2caZ3tTOK9fdcx3McRp5gTJCi0S37jaNlXUykyB56zCgyWrP0-S3GB&_nc_ohc=cAn5uTxVG0sAX9JBDHU&_nc_ht=scontent.fcrk1-5.fna&oh=00_AfBUj1CW8uYOhXA0UAtiv0ZTYns5AJpMCJn18k-58Sm2fg&oe=643A857A
 
 # boolean type, the global switch for ToC in posts.
 toc: true
